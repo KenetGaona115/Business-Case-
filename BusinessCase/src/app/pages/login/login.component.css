@@ -1,0 +1,28 @@
+button{
+    border-radius: 20px;
+    height:45px !important;
+}
+
+.password-toggle {
+  display: grid;
+  place-items: center end;  
+  margin-top: -19%;
+}
+
+.btn-google {
+  padding: 10px; 
+  text-align: center;
+  color: #545454;
+  background-color: #ffffff;
+  box-shadow: 0 1px 3px 1px #ddd;
+  border-radius: 20px;
+}
+
+.btn-google img {
+  width: 30px; 
+}
+
+.btn-google p {
+  margin-top: -8%;
+}
+
